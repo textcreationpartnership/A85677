@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last counsel of a martyred King to his son. Wherein is contained, 1. The last precepts of the most Christian King of Charles the First, written by his own hand to his son Charles the Second King of Great Brittain France and Ireland, &amp;c. ... 6. A divine eligie upon the great sufferings and death of his sacred Majesty. Never publisht before. By J.D. Esq; a loyal subject and servant to His Majesty.</title>
+            <author>Gregory, Francis, 1625?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85677</idno>
+            <idno type="STC">Wing G1895A</idno>
+            <idno type="STC">Thomason E1025_7</idno>
+            <idno type="STC">ESTC R208700</idno>
+            <idno type="EEBO-CITATION">99867627</idno>
+            <idno type="PROQUEST">99867627</idno>
+            <idno type="VID">119946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119946)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1025[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last counsel of a martyred King to his son. Wherein is contained, 1. The last precepts of the most Christian King of Charles the First, written by his own hand to his son Charles the Second King of Great Brittain France and Ireland, &amp;c. ... 6. A divine eligie upon the great sufferings and death of his sacred Majesty. Never publisht before. By J.D. Esq; a loyal subject and servant to His Majesty.</title>
+                  <author>Gregory, Francis, 1625?-1707.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Jones and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.D. = Francis Gregory.</note>
+                  <note>Contains: A letter written by Charles I. to his son, dated 26 Nov. 1648; together with a account of the death of Charles I., and an elegy. -- Thomason Catalog.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>England --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119946:1"/>
+            <pb facs="tcp:119946:1" rendition="simple:additions"/>
+            <p>THE LAST COUNSEL Of a Martyred KING To His SON.</p>
+            <p>Wherein is contained,</p>
+            <p n="1">
+               <hi>1.</hi> The laſt <hi>Precepts</hi> of the moſt Chriſtian King <hi>Charles</hi> the Firſt, written by his own hand to his Son <hi>Charles</hi> the Second King of <hi>Great Brittain France</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p n="2">
+               <hi>2.</hi> His Majeſties heavenly Advice the day before his Death to the Lady <hi>Elizabeth</hi> and the Duke of <hi>Gloceſter.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> His mil<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and courteous Speech to <hi>Hewſon</hi> the Cobler and thoſe Janiſaries who ſpit on his Majeſties Face, as he came from the Black Tribunal, after the ſad ſentence of death paſsd upon him by his Bloody judges.</p>
+            <p n="4">
+               <hi>4.</hi> The laſt Diſcourſe that paſſed beween his Sacred Majeſty, and Doctor <hi>Juxon</hi> Biſhop of <hi>London.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> The manner of ſolemnizing His Funeral by the Duke of <hi>Lenox,</hi> tht Marqueſs of Hertford the Marqueſs of <hi>Dorcheſter,</hi> the Earl of <hi>Lindſey</hi> and four of His Maieſties faithful ſervants, to whom his body was delive<g ref="char:EOLhyphen"/>red after it was embalmed.</p>
+            <p n="6">
+               <hi>6.</hi> A Divine Eligie upon the great Sufferings and Death of his ſacred Majeſty.</p>
+            <p>Never Publiſht before.</p>
+            <p>By <hi>J. D. <abbr>Eſq</abbr>
+               </hi> a Loyal Subject and Servant to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for J. Jones and are to be ſold at the <hi>Royall Exchange</hi> in <hi>Cornhill,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:119946:2"/>
+            <head>A LETTER WRITTEN By CHARLES the Firſt King of <hi>Great Brittain,</hi> &amp;c. To his Son the Prince.</head>
+            <opener>
+               <dateline>Dated <date>
+                     <hi>Novemb.</hi> 26. 1648.</date>
+               </dateline>
+               <salute>SON,</salute>
+            </opener>
+            <p>BY what hath been ſaid you may ſee how long we have laboured in the ſearch of Peace. Do not you be diſcouraged to tread thoſe wayes in all thoſe worthy means to reſtore your Self to your Right; but prefer the way of Peace: ſhew the greatneſs of your mind rather to conquer your enemies by pardoning then by puniſhing. If you ſaw how unmanly and unchriſtianly this implacable diſpoſition is in our ill-willers, you would avoid that ſpirit. Cenſure us not for ha<g ref="char:EOLhyphen"/>ving parted with too much of our own right: the price was great, the Commodity was ſecurity to us, Peace to our People. And we are confident another <hi>Parliament</hi> would remember how uſeful a Kings Power is to a Peoples Liberty. Of how much we have diveſted our Self, that we and they might meet again in a due Parliamentary way, to a<g ref="char:EOLhyphen"/>gree the bounds for Prince and People. And in this give belief to our experience never to affect more greatneſs or Prerogative than what is really and intrinſically for the good of your Subjects (not ſatisfaction of Favourites). And if you thus uſe it, you will never want means to be a Father to all, and a bountiful Prince to any you will be extraordi<g ref="char:EOLhyphen"/>narily gracious unto. You may perceive all men truſt their treaſure where it returns them intereſt: And if Princes, like the Sea, receive and repay all the freſh ſtreams and rivers truſt them with they will not grudge, but pride themſelves to make it up an Ocean. Theſe con<g ref="char:EOLhyphen"/>ſiderations may make you a great Prince, as your Father is now a low one; and your ſtate may be ſo much the more eſtabliſhed, as mine hath
+<pb n="3" facs="tcp:119946:2"/>
+been ſhaken. For Subjects have leanrt (we dare ſay) that Victories over their Princes are but Triumphs over themſelves, and ſo will be more unwilling to hearken to changes hereafter. The <hi>Engliſh</hi> Nation a ſober People, however at preſent under ſome infatuation. We know not but this may be the laſt time We may ſpeak to you or the world publickly; We are ſenſible into what hand We are faln, and yet We bleſs God, We have thoſe inward refreſhments, that the malice of Our Enemies cannot perturb. We have learnt to own Our ſelf, by tetiting Our ſelf, and therefore can the better digeſt what be<g ref="char:EOLhyphen"/>fals Us, not doubting but God can reſtrain our Enemies malice, and turn their fierceneſs into his praiſe. To conclude, if God give you ſucceſs, uſe it humbly and far from revenge: If he reſtore you to your Right upon hard conditions, what ever you promiſe, keep. Thoſe men which have forced Lawes which they were bound to obſerve, will find their triumps full of troubles. Do not think any thing in this World worth obtaining by foul and unjuſt means. You are the Son of Our love: and as We direct you to what we have recommended to you, ſo we aſſure you, We do not more affectionately pray for you (to whom We are a natural Parent) then We do, that the ancient glory and renown of this Nation, be not buried in irreligion and fana<g ref="char:EOLhyphen"/>tick humour: And that all our Subjects (to whom we are a Politick Parent) may have ſuch ſober thoughts as to ſeek their Peace, in the Orthodox Profeſſion of the Chriſtian Religion, as it was eſtabliſhed ſince the Reformation in this Kingdom, and not in new Revelations: And that the ancient Lawes, with the Interpretation according to the known practiſes, may once again be an hedge about them, that you may in due time govern, and they be governed, as in the fear of the Lord.</p>
+            <closer>
+               <signed>C. R.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>The Commiſſioners are gone, the Corn is now in the Ground, We expect the Harveſt, if the Fruit be Peace. I hope the God of Peace will in time reduce all to Truth and Order again. Which that he may do, is the prayer of</p>
+            <closer>
+               <signed>C. R.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <p>A true relation of the <hi>Kings</hi> Speech to the Lady <hi>Elizabeth</hi> and the Duke of <hi>Gloceſter,</hi> the day before His Death.</p>
+            <p>
+               <q>His Children being come to meet him, He firſt gave his Bleſſing to the Lady <hi>Elizabeth,</hi> and bad her remember to tell her Brother <hi>James,</hi> when ever ſhe ſhould ſee him, that it was his Fathers laſt deſire that he ſhould no more look upon <hi>Charls</hi> as his eldeſt Brother onely, but be obedient unto him as his Soveraign; and that they ſhould love one another, and forgive their Fathers Enemies. Then ſaid the King to
+<pb n="4" facs="tcp:119946:3"/>
+her, Sweet-heart, you'l forget this: No (ſaid ſhe) I ſhall never for<g ref="char:EOLhyphen"/>get this: and pouring forth abundance of tears, promiſed to write the particulars.</q>
+            </p>
+            <p>The King taking the Duke of <hi>Gloceſter</hi> upon his Knee, ſaid, Sweet<g ref="char:EOLhyphen"/>heart, now they will cut off thy Fathers head (upon which words the child looked very ſtedfaſtly on him) Mark child what I ſay, They will cut off My Head, and perhaps make thee a King: But mark what I ſay, you muſt not be a King, ſo long, as your Brothers, <hi>Charles</hi> and <hi>James,</hi> (when they can catch them) and cut off thy Head too at laſt: and therefore I charge you do not be made a King by them. At which the child ſighing, ſaid, I will be torn in pieces firſt; which fal<g ref="char:EOLhyphen"/>ling ſo unexpectedly from one ſo young, it made the King rejoyce ex<g ref="char:EOLhyphen"/>ceedingly.</p>
+            <p>Having given an Account of His Majeſties Letter and his Advice to the reſt of his children, I ſhall now give you ſome paſſages touching the Kings Tryal. <hi>viz.</hi>
+            </p>
+            <p>After Sentence, the King being hurried from their Bar, as he paſſed down the Stairs, The Common Souldiers (laying a ſide all Reverence to Soveraignity) ſcoffed at him, caſting the ſmoak of their ſtinking Tobacco in his Face (no <hi>Smell</hi> more offenſive to him) and flinging their foulpipes at his feet; But one <hi>Hewſon</hi> a Cobler more inſolent then the reſt, defiled his venerable Face with his ſpittle, for his Majeſty was obſerved with much patience to wipe it off with his Handkerchief, and as he paſſed, hearing them cry out Juſtice, Juſtice, <hi>Poor ſouls</hi> (ſaid he) <hi>for a piece of mony, they would do ſo for their Commanders.</hi> That Night being Saturday <hi>January</hi> 27. the King lodged at <hi>White-hall;</hi> that Evening a Member of the Army (acquainted the Committee) with the deſires of the King, that ſeeing they had paſſed Sentence of Death upon him, and the time of his Execution might be nigh, that he might ſee his Children, and receive the Sacrament, and that Dr. <hi>Juxon</hi> Biſhop of <hi>London,</hi> might be admitted to pray with him in his private Cham<g ref="char:EOLhyphen"/>ber; both which were granted,</p>
+            <p>
+               <hi>Tueſday Jan.</hi> 30. Was the Fatal day wherein this horrid murder was to be acted; at which time his Majeſty was brought on the Scaffold, where he made a ſhort ſpeech, but Dr. <hi>Juxon</hi> upon ſerious thoughts of the peoples expectation ſaid as follows. <hi>viz.</hi>
+            </p>
+            <sp>
+               <speaker>Dr. Juxon.</speaker>
+               <p>Will your Majeſty (though it may be very well known your affections to Religion, yet it may be expected that you ſhould) ſay ſomewhat for the worlds ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <q>I thank you very heartily my Lord, Sirs, My Conſcience in
+<pb n="5" facs="tcp:119946:3"/>
+Religion I think is very well known to all the world, and therefore I declare before you all, That I die a Chriſtian; according to the Pro<g ref="char:EOLhyphen"/>feſſion of the Church of <hi>England,</hi> as I found it left me by my Father, and this honeſt man <hi>[Pointing to Doctor</hi> Juxon.] I think will witneſs it. <hi>Then turning to the Officers ſaid,</hi> Sirs, excuſe me for this ſame, I have a good cauſe, and I have a gracious God, I will ſay no more. <hi>Then turning to Colonell</hi> Hacker, <hi>he ſaid,</hi> Take care they do not put me to pain, and Sir, this, and it pleaſe you; <hi>But a Gentleman coming near the Ax the King ſaid,</hi> take heed of the Ax, pray take heed of the Ax, <hi>then the King ſpeaking to the Executioner ſaid,</hi> I ſhall ſay but very ſhort prayers, and when I thruſt out my hands—</q> Then the King called to Doctor <hi>Juxon</hi> for his Night-cap, and having put it on, he ſaid to the Executioner, <hi>Does my hair trouble you?</hi> who deſired him to put it under his cap, which the King did accordingly by the help of the Executioner and the Biſhop: then the King turning to Dr. <hi>Juxon</hi> ſaid, <hi>I have a good Cauſe, and a gracious God on my ſide.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Doctor <hi>Juxon.</hi>
+               </speaker>
+               <p>There is but one Stage more, this Stage is turbulent and troubleſom, it is a ſhort one: But you may conſider, it will ſoon carry you a very great way: it will carry you from earth to heaven; and there you ſhall find a great deal of cordial joy and comfort.</p>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>I go from a corruptible to an incorruptible Crown; where no diſturbance can be, no diſturbance in the world.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor <hi>Juxon,</hi>
+               </speaker>
+               <p>You are, exchanged from a Temporal to an Eternal Crown, a good exchange<g ref="char:punc">▪</g>
+               </p>
+               <p>The King then ſaid to the executioner, is my hair well? Then the King rook off his Cloak and<g ref="char:punc">▪</g> his George, giving his George, to Doctor <hi>Juxon,</hi> ſaying, Remember—Then the King put off his Doubler, and being in his Waſt-coat, put his cloak on a<g ref="char:EOLhyphen"/>gain, then looking upon the block, ſaid to the Executioner, <hi>You muſt ſet it faſt. Executioner.</hi> It is faſt, Sir. King. <hi>When I put my hands out this way, ſtretching them out, then</hi>—After that, having ſaid two or three words (as he ſtood) to himſelf, with hands and eyes lift up; Immediately ſtooping down, laid his neck upon the Block: and then the Executioner again putting his hair under his Cap the King ſaid (thinking he had been going to ſtrike) ſtay for the ſign. <hi>Executioner,</hi> Yes, I will and it pleaſe) our Majeſty. And after a little pauſe, the King ſtretching forth his hands. The Executioner at one blow ſevered his head from his body, which was with the Body put in a Coffin covered with black Velvet, and conveyed to his Lodgings.</p>
+               <p>
+                  <pb n="6" facs="tcp:119946:4"/>
+After which the body was conveyed to St. <hi>Jameſes,</hi> where it was em<g ref="char:EOLhyphen"/>balmed, and put in a Coffin of Lead, it lay there a fortnight, and after was delivered to the care of 4 of his Maj. ſervants, <hi>viz.</hi> Mr. <hi>Herbert,</hi> Capt. <hi>Anth. Mildma<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Capt. <hi>Preſton</hi> and <hi>John Joyne<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> who with others in mourning accompanied it to <hi>Windſor,</hi> and placed it in that room formerly called his Majeſties Bed-chamber. The body being brought thither the moſt convenient place they could find for burial was in a Vault where they conjectured K. <hi>Hen.</hi> 8. lay, where they interrd the Kings body, which was conveyed by the Officers of the Garriſon, the 4 Corners of the Velvet Pall being held up by the Duke of <hi>Lenox,</hi> the Mar. of <hi>Hertford,</hi> the M. of <hi>Dorcheſter,</hi> and the Earl of <hi>Lindſey,</hi> the Biſhop of <hi>London</hi> and other perſons of quality following, the Velvet Pal was caſt in upon the <hi>Body</hi> and theſe words were upon the Coffin,</p>
+               <p>KING CHARLES 1648.</p>
+            </sp>
+         </div>
+         <div type="poem">
+            <head>An Elegie on the Sufferings and Death of King CHARLES <hi>I.</hi>
+            </head>
+            <lg>
+               <l>COme come, let's mourn, all eyes that ſee this day</l>
+               <l>Melt into ſhowers, weep your ſelves away:</l>
+               <l>O that each privat head, could yield a flood</l>
+               <l>Of tears whilſt <hi>Britains</hi> Head ſtreams out his blood.</l>
+               <l>Could we pay what his ſacred drops might claim,</l>
+               <l>The World muſt needs be drowned once again.</l>
+               <l>Hands cannot write for trembling, let our eye</l>
+               <l>Supply the Quill, and ſhed an <hi>Elegie.</hi>
+               </l>
+               <l>Tongues cannot ſpeak; this grief knows no ſuch vent,</l>
+               <l>Nothing but ſilence, can be eloquent.</l>
+               <l>Words are not here ſignificant; in this</l>
+               <l>Our ſighs, our groans bear all the <hi>Emphaeſis.</hi>
+               </l>
+               <l>Dread Sir! what ſhall we ſay? <hi>Hyperbole</hi>
+               </l>
+               <l>Is not a figure when it ſpeaks of <hi>Thee.</hi>
+               </l>
+               <l>Thy <hi>Book</hi> is our beſt Language, what to this</l>
+               <l>Shall e're be added, is Thy <hi>Meioſis:</hi>
+               </l>
+               <l>Thy Name's a <hi>Text</hi> too hard for us: No men</l>
+               <l>Can write of it, without <hi>Thy P<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ts</hi> and <hi>Pen.</hi>
+               </l>
+               <l>
+                  <hi>Thy</hi> Priſons, Scorns, Reproach <hi>and</hi> Poverty,</l>
+               <l>(Though theſe were thought too courteous injury)</l>
+               <l>How could'ſt Thou bear? Thou Meeker <hi>Moſes,</hi> how?</l>
+               <l>Was ever <hi>Lyon</hi> bit with <hi>Whelps</hi> till now</l>
+               <l>And did not roar? Thou <hi>England's David,</hi> how</l>
+               <l>Did <hi>Shime<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Tongue not move Thee? Where's the Man?</l>
+               <l>
+                  <pb n="7" facs="tcp:119946:4"/>
+Where is the <hi>King? Charles</hi> is all <hi>Chriſtian.</hi>
+               </l>
+               <l>Thou never wanted'ſt Subjects, no; when they</l>
+               <l>Rebel'd, thou mad'ſt thy paſſions to obey.</l>
+               <l>Had'ſt Thou regain'd thy Throne of State by Power,</l>
+               <l>Thou had'ſt not more been then a <hi>Conquerour.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But Thou, thine own <hi>Soul's Monarch,</hi> art above</l>
+               <l>Revenge and Anger, Can'ſt thou tame thy Love?</l>
+               <l>How could'ſt thou bear thy <hi>Queen's</hi> divorce? Muſt She</l>
+               <l>At once thy <hi>Wife,</hi> and yet thy <hi>Widdow</hi> be?</l>
+               <l>Where are thy tender <hi>Babes</hi> once <hi>Princely</hi> bred,</l>
+               <l>Thy choyceſt Jewells, are they <hi>Sequeſtred?</hi>
+               </l>
+               <l>Where are thy Nobles? Lo, inſtead of theſe</l>
+               <l>Baſe ſavage Villains, and thine Enemies:</l>
+               <l>
+                  <hi>Aegyptian</hi> Plague! was onely <hi>Pharaoh's</hi> Doom,</l>
+               <l>To ſee ſuch Vermine in his lodging-room.</l>
+               <l>What Guards are ſet, what Watches do they keep?</l>
+               <l>They do not think thee ſafe, though lock't in <hi>Sleep.</hi>
+               </l>
+               <l>Would they confine thy Dreams within to dwell,</l>
+               <l>Nor let thy Fancy paſs their <hi>Centinel?</hi>
+               </l>
+               <l>Are thy Devotions dangerous? or do</l>
+               <l>Thy <hi>Prayers</hi> want a Guard? Theſe faulty too?</l>
+               <l>Varlets, 'twas only, when they ſpake for You.</l>
+            </lg>
+            <lg>
+               <l>But lo a Charge is drawn, a Day is ſet,</l>
+               <l>The ſilent <hi>Lamb</hi> is brought, the <hi>Wolves</hi> are met.</l>
+               <l>
+                  <hi>Law</hi> is arraign'd of Treaſon, <hi>Peace</hi> of War,</l>
+               <l>And Juſtice ſtands a Priſoner at Bar.</l>
+               <l>This Scene was like the <hi>Paſſion-Tragedie,</hi>
+               </l>
+               <l>His <hi>Saviour's Perſon</hi> none could Act, but He.</l>
+               <l>Behold what <hi>Scribes</hi> are here, what <hi>Phariſees!</hi>
+               </l>
+               <l>What <hi>bands</hi> of <hi>Souldiers!</hi> What falſe <hi>Witneſſes!</hi>
+               </l>
+               <l>Here was a <hi>Prieſt,</hi> and that a <hi>Chief</hi> one; who</l>
+               <l>Durſt ſtrike at <hi>God,</hi> and his <hi>Vicegerant</hi> too.</l>
+               <l>Here <hi>Bradſhaw, Pilate</hi> there: This makes them twain.</l>
+               <l>Pilate <hi>for</hi> fear, Bradſhaw <hi>condemn'd for</hi> Gain.</l>
+               <l>Wretch! coul'dſt not thou be rich, till <hi>Charles</hi> was dead?</l>
+               <l>Thou might'ſt have took the <hi>Crown,</hi> yet ſpar'd his <hi>Head.</hi>
+               </l>
+               <l>Thou'ſt juſtifi'd that <hi>Roman</hi> Judg; Who ſtood</l>
+               <l>And waſht in <hi>Water,</hi> thou haſt dipt in <hi>Blood.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And where's the Slaughter-houſe? <hi>Whitehall</hi> muſt be,</l>
+               <l>Lately his <hi>Pallace,</hi> now his <hi>Calvarie.</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:119946:5"/>
+Great <hi>Charles,</hi> is this Thy Dying-place? And where</l>
+               <l>Thou wert our <hi>King,</hi> art thou our <hi>Martyr</hi> there?</l>
+               <l>Thence, thence thy <hi>Soul</hi> took ſlight; and there will we</l>
+               <l>Not ceaſe to <hi>Mourn,</hi> where thou didſt ceaſe to <hi>Be.</hi>
+               </l>
+               <l>And thus bleſt Soul, he's gone: a <hi>Star,</hi> whoſe fall</l>
+               <l>As no <hi>Eclipſe</hi> proves <hi>Oecumenical:</hi>
+               </l>
+               <l>That Wretch had skill to ſin, whoſe hand did know</l>
+               <l>How to behead three Kingdoms at one blow.</l>
+               <l>
+                  <hi>England</hi> hath loſt the influence of <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er <hi>King,</hi>
+               </l>
+               <l>No wonder that ſo backward was her <hi>Spring.</hi>
+               </l>
+               <l>O diſmall <hi>Day!</hi> but yet how quickly gon?</l>
+               <l>It muſt be ſhort, Our <hi>Sun</hi> went down at <hi>Noon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now, ye <hi>Senators,</hi> is this the thing</l>
+               <l>So oft declar'd; Is this your <hi>Glorious King?</hi>
+               </l>
+               <l>Did you by <hi>Oaths</hi> your God and Countrey mock,</l>
+               <l>Pretend a <hi>Crown,</hi> and yet prepare a <hi>Block?</hi>
+               </l>
+               <l>Did you, that ſwore you'd Mount <hi>Charles</hi> higher yet,</l>
+               <l>Intend the <hi>Scaffold</hi> for his <hi>Olivet?</hi>
+               </l>
+               <l>Was this, <hi>Hail Maſter?</hi> Did you how the knee</l>
+               <l>That you might murther him with <hi>Loyaltie?</hi>
+               </l>
+               <l>Alas! two Deaths! what cruelty was this?</l>
+               <l>The <hi>Ax</hi> deſignd, you might have ſpar'd the <hi>Kiſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>London,</hi> did'ſt thou thy <hi>Princes</hi> Life betray?</l>
+               <l>What? could thy <hi>Sables</hi> vent no other way?</l>
+               <l>Or elſe didſt thou bemoan his <hi>Croſs?</hi> then ah!</l>
+               <l>Why wouldſt thou be the curſed <hi>Golgotha?</hi>
+               </l>
+               <l>Thou once hadſt Men, Plate, Arms, a Treaſurie</l>
+               <l>To <hi>bind</hi> thy <hi>King,</hi> and haſt thou none to <hi>free?</hi>
+               </l>
+               <l>Dull beaſt! thou ſhouldſt before thy <hi>Head</hi> did fall,</l>
+               <l>Have had at leaſt th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirits <hi>Animall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Did You, Ye <hi>Nobles,</hi> envy <hi>Charles</hi> his <hi>Crown?</hi>
+               </l>
+               <l>
+                  <hi>Jove</hi> being faln, the <hi>Puny gods</hi> muſt down,</l>
+               <l>Your <hi>Rayes</hi> o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Honor</hi> are Eclipſt in Night.</l>
+               <l>The <hi>Sun</hi> is ſet, from whence you drew your <hi>Light.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Religion</hi> Va<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls her ſelf; and Mourns that She</l>
+               <l>Is forc'd to own ſuch horrid Villanie.</l>
+               <l>The <hi>Church</hi> and <hi>State</hi> do ſhake; the building muſt</l>
+               <l>Expect to fall, whoſe <hi>Prop</hi> is turn'd to <hi>Duſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ceaſe from Tears, <hi>Charles</hi> is of light bereav'n;</l>
+               <l>And ſnuft on <hi>Earth</hi> to ſhine more bright in <hi>Heav'n.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119946:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
